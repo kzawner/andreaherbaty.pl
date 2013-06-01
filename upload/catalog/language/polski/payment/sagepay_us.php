@@ -1,0 +1,27 @@
+<?php
+/**
+ * OpenCart 1.5.2.1 Polskie Tłumaczenie
+ *
+ * This script is protected by copyright. Its use, copying, modification
+ * and distribution without written consent of the author is prohibited.
+ *
+ * @category    OpenCart
+ * @package     OpenCart
+ * @author      Krzysztof Kardasz <krzysztof.kardasz@gmail.com>
+ * @copyright   Copyright (c) 2012 Krzysztof Kardasz
+ * @license     http://www.gnu.org/licenses/lgpl-3.0.txt  GNU Lesser General Public
+ * @version     1.5.2.1 $Id: sagepay_us.php 88 2012-04-23 14:42:06Z krzysztof.kardasz $
+ * @link        http://opencart-polish.googlecode.com
+ * @link        http://opencart-polish.googlecode.com/svn/branches/1.5.2.1/
+ */
+
+// Text
+$_['text_title']           = 'Karta Kredytowa / Debetowa (SagePay)';
+$_['text_credit_card']     = 'Informacje o karcie';
+$_['text_wait']            = 'Proszę czekać!';
+
+// Entry
+$_['entry_cc_owner']       = 'Właściciel karty:';
+$_['entry_cc_number']      = 'Numer kary:';
+$_['entry_cc_expire_date'] = 'Data ważności karty  :';
+$_['entry_cc_cvv2']        = 'Kod zabezpieczający (CVV2):';
