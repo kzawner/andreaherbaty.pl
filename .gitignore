@@ -1,1 +1,5 @@
-upload/config.php
+#image/cache/data
+system/cache
+.gitignore
+upload/system/logs/error.txt
+system/logs/error.txt
