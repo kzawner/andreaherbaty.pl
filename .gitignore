@@ -3,3 +3,4 @@ upload/system/cache
 .gitignore
 upload/system/logs/error.txt
 system/logs/error.txt
+upload/config.php
